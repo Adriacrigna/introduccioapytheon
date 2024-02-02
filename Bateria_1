@@ -12,7 +12,7 @@ nom = input("Introdueix el teu nom d'usuari: ")
 print("Hola ",nom)
 1.4
 pes = input("Introdueixi un pes: ")
-multiplicacio = int(pes) * 2.20
+multiplicacio = int(pes) * 2.20462
 print("El pes en lliures son: ", multiplicacio)
 1.5
 temperatura = input("Introdueixi la temperatura en celcius: ")
