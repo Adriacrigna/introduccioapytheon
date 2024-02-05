@@ -3,7 +3,7 @@ Bevinguts al meu repositori
 ## Els meus programes
 - [Hello World](hello_world.py)
 - [Factorials](Factorials)
-- [Bateria 1](Bateria_1)
+- [Bateria 1](Bateria_1.py)
 ## Bateria 1
 -[1.1](1.1.py)
 -[1.2](1.2.py)
